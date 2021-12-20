@@ -1,0 +1,1 @@
+# ADXL_345-ThingSpeak-X-Y-Z-value
