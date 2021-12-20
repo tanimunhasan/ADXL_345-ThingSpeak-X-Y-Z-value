@@ -1,0 +1,5 @@
+ESP32 with ADX345 Interfacing
+Install Adafruit ADXL345 Library
+ESP32        -----------------       ADXL345
+SDA PIN 21                            SDA
+SCL PIN 22                            SCL
